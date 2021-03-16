@@ -108,4 +108,12 @@ window.addEventListener('resize', function(){
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     init();
+    console.log(window.innerHeight, window.innerWidth)
+})
+
+window.addEventListener('scroll', function(){
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    init();
+    console.log(window.innerHeight)
 })
