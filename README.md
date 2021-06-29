@@ -1,6 +1,6 @@
 # Animated clouds
 
-Animated particles on js canvas
+Animated 2D particles on js canvas
 
  
 used here in Freecodecamp project:
